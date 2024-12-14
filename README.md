@@ -2,15 +2,22 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre Mim</h2>
+
+<p align="left">Meu nome é Jean Wallace Arcendino Marques e sou apaixonado por tecnologia, com uma trajetória promissora na área de TI. Iniciei minha carreira na SX Negócios, onde adquiri valiosa experiência no ambiente corporativo e desenvolvi habilidades essenciais.
+
+Busquei constantemente aprimorar meus conhecimentos, completando cursos como Operador de Computador, Excel e Metodologias Ágeis (Scrum e Mindset Ágil), o que me capacitou a coordenar equipes e otimizar processos de desenvolvimento.
+
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio e trabalho na Qualy Lab Análises Ambientais, onde continuo a crescer profissionalmente e a aplicar meus conhecimentos em tecnologia.</p>
+
 
 ###
 
-<p align="left">- Front End Developer<br>- Trainee at @Qualylab Análises Ambientais</p>
+<h2 align="left">Carreira</h2>
 
-###
+<p align="left">- Front End Developer<br>- Estagiário TI da @Qualylab Análises Ambientais</p>
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Techs</h2>
 
 ###
 

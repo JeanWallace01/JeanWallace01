@@ -1,6 +1,6 @@
 Olá, meu nome é Jean Wallace! ================================================================= ================================================================= Desenvolvedor Web ----------------- Meu nome é Jean Wallace Arcendino Marques, sou apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas na Estácio. Iniciei minha trajetória profissional como jovem aprendiz, onde tive meu primeiro contato com o ambiente corporativo. Posteriormente, ingressei no meu primeiro estágio na área de suporte de TI, adquirindo experiência prática e desenvolvendo habilidades essenciais. Em busca de novos desafios, encontrei uma nova oportunidade de estágio, ampliando meu conhecimento e fortalecendo minha atuação no setor. Já atuei na SX Negócios e, atualmente, trabalho no Supermercado Zona Sul, no setor de microinformática da TI. Tenho formação em cursos como Operador de Computador, Excel e Metodologias Ágeis, e sigo aplicando e expandindo meus conhecimentos para contribuir no setor de tecnologia.
 
-<a href="https://www.github.com/JeanWallace01" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JeanWallace01?logo=github&style=for-the-badge&color=0891b2&labelColor=7f1d1d" /></a>
+
 ### Habilidades
 
 <p align="left">
@@ -13,5 +13,9 @@ Olá, meu nome é Jean Wallace! ================================================
 ### Emblemas
 
 <b>Minhas estatísticas do GitHub</b>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanWallace01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanWallace01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<a href="http://www.github.com/JeanWallace01"><img src="https://github-readme-stats.vercel.app/api?username=JeanWallace01&show_icons=true&hide=commits,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de JeanWallace01" /></a>
+###

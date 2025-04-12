@@ -1,46 +1,21 @@
-<h2 align="left">Sobre Mim</h2>
+Olá, meu nome é Jean Wallace! ================================================================= ================================================================= Desenvolvedor Web ----------------- Meu nome é Jean Wallace Arcendino Marques, sou apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas na Estácio. Iniciei minha trajetória profissional como jovem aprendiz, onde tive meu primeiro contato com o ambiente corporativo. Posteriormente, ingressei no meu primeiro estágio na área de suporte de TI, adquirindo experiência prática e desenvolvendo habilidades essenciais. Em busca de novos desafios, encontrei uma nova oportunidade de estágio, ampliando meu conhecimento e fortalecendo minha atuação no setor. Já atuei na SX Negócios e, atualmente, trabalho no Supermercado Zona Sul, no setor de microinformática da TI. Tenho formação em cursos como Operador de Computador, Excel e Metodologias Ágeis, e sigo aplicando e expandindo meus conhecimentos para contribuir no setor de tecnologia.
 
-###
+<a href="https://www.github.com/JeanWallace01" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JeanWallace01?logo=github&style=for-the-badge&color=0891b2&labelColor=7f1d1d" /></a>
 
-<div align="left">
-  <img height="200" src=""C:\Users\digid\Downloads\Banner Jean.jpg""  />
-</div>
-
-###
-
-<p align="left">Meu nome é Jean Wallace Arcendino Marques, sou apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas na Estácio. Já atuei na SX Negócios e atualmente estou no Supermercado Zona Sul, no setor de microinformática da TI. Tenho formação em cursos como Operador de Computador, Excel e Metodologias Ágeis, e sigo aplicando e expandindo meus conhecimentos para contribuir no setor de tecnologia.
-Espero que esse resumo funcione! Caso queira ajustar mais alguma coisa, estou aqui. </p>
-
-###
-
-<h3 align="left">Carreira</h3>
-
-###
+### Habilidades
 
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
-###
 
-<h2 align="left">Tecnologias</h2>
+### Socials
 
-###
+<p align="left"> <a href="https://www.github.com/JeanWallace01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jean-wallace-7b7293230/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+### Emblemas
 
-###
+<b>Minhas estatísticas do GitHub</b>
+
+<a href="http://www.github.com/JeanWallace01"><img src="https://github-readme-stats.vercel.app/api?username=JeanWallace01&show_icons=true&hide=commits,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de JeanWallace01" /></a>

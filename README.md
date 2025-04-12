@@ -1,12 +1,7 @@
 
-**🧑‍💻** <h1 align="center">Jean Wallace - Jean-Wallace-01</h1>
+<h1 align="center"> < Jean Wallace >   </h1>
 
 ###
-
-<div align="center">
-  _________________________________________________________________________________________________________________________________________________________________________________________
-</div>
-
 
 ![Image](https://github.com/user-attachments/assets/ea998ed8-6654-4b8b-9904-af509cb2d94e)
 

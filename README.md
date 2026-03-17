@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="C:\Users\digid\OneDrive\Pictures\FOTOS\Wallpaper GitHub"  />
+  <img width="814" height="536" alt="Image" src="https://github.com/user-attachments/assets/5e3c992f-45a8-40fa-adb1-f2fbca3aae84" />
 </div>
 
 ###

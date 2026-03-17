@@ -1,35 +1,40 @@
-
-
-###
-
-<h1 align="center"> < Jean Wallace >   </h1>
+<h1 align="center">< Jean Wallace ></h1>
 
 ###
 
-![Image](https://github.com/user-attachments/assets/ea998ed8-6654-4b8b-9904-af509cb2d94e)
+<div align="center">
+  <img height="200" src="C:\Users\digid\OneDrive\Pictures\FOTOS\Wallpaper GitHub"  />
+</div>
 
+###
 
+<h2 align="left">Sobre mim</h2>
 
-<p align="center">Meu nome é Jean Wallace Arcendino Marques, sou apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas na Estácio. Iniciei minha trajetória profissional como jovem aprendiz, onde tive meu primeiro contato com o ambiente corporativo.<br><br>Posteriormente, ingressei no meu primeiro estágio na área de suporte de TI, adquirindo experiência prática e desenvolvendo habilidades essenciais. Em busca de novos desafios, encontrei uma nova oportunidade de estágio, ampliando meu conhecimento e fortalecendo minha atuação no setor. Já atuei na SX Negócios e, atualmente, trabalho no Supermercado Zona Sul, no setor de microinformática da TI.<br><br>Tenho formação em cursos como Operador de Computador, Excel e Metodologias Ágeis, e sigo aplicando e expandindo meus conhecimentos para contribuir no setor de tecnologia.</p>
+###
 
+<p align="left">Meu nome é Jean Wallace Arcendino Marques, sou apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas na Estácio. Iniciei minha trajetória profissional como jovem aprendiz, onde tive meu primeiro contato com o ambiente corporativo.<br><br>Posteriormente, ingressei no meu primeiro estágio na área de suporte de TI, adquirindo experiência prática e desenvolvendo habilidades essenciais. Em busca de novos desafios, encontrei uma nova oportunidade de estágio, ampliando meu conhecimento e fortalecendo minha atuação no setor. Já atuei na SX Negócios e, atualmente, trabalho no Supermercado Zona Sul, no setor de microinformática da TI.<br><br>Tenho formação em cursos como Operador de Computador, Excel e Metodologias Ágeis, e sigo aplicando e expandindo meus conhecimentos para contribuir no setor de tecnologia.</p>
 
+###
 
-### Linguagens de programação
+<h2 align="left">Linguagens de Programação</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
 
+<h2 align="left">Ferramentas</h2>
 
-### Ferramentas 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
@@ -41,28 +46,40 @@
 
 ###
 
-### Frameworks
+<h2 align="left">Frameworks</h2>
+
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
 
+<h2 align="left">Banco de Dados</h2>
 
-### Banco de dados
+###
 
 <div align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
+###
 
-### Redes sociais
+<p align="left">Redes Sociais</p>
 
-<p align="left"> <a href="https://www.github.com/JeanWallace01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" altura="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jean-wallace-7b7293230/" target="_blank" rel="noreferrer"> <picture> <source media="(prefere-esquema-de-cores: escuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefere-esquema-de-cores: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
